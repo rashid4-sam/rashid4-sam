@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hello, I'm Rashid!
 
-<!--
-**rashid4-sam/rashid4-sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Scientist** | Specializing in predictive modeling and applied machine learning  
+📍 Kerala, India  
+📧 **Email:** rashidsamad70@gmail.com  
+🔗 **LinkedIn:** [muhammedrashidsamad](https://www.linkedin.com/in/muhammedrashidsamad)  
+👨‍💻 **GitHub:** [rashid4-sam](https://github.com/rashid4-sam)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 About Me  
+Aspiring Data Scientist with a strong foundation in **Python**, **Machine Learning**, and **Data Analysis**. I'm passionate about turning data into actionable insights and building intelligent systems that solve real-world problems.
+
+---
+
+### 🛠️ Tech Toolbox  
+**Languages:** Python, SQL, JavaScript  
+**Frameworks & Libraries:** Scikit-learn, Pandas, Imbalanced-learn, Seaborn  
+**Tools & Platforms:** AWS, Git  
+**Specialties:** Machine Learning, Generative AI, NLP, Search
+
+---
+
+### 🎓 Education  
+**Bachelor of Science in Computer Science**  
+*Kannur University*
+
+---
+
+### 📜 Certifications  
+- **Machine Learning** – Udemy  
+- **Power BI** – Udemy  
+- **Tableau** – Udemy
+
+---
+
