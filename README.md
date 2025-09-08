@@ -34,6 +34,6 @@ I’m passionate about transforming raw data into actionable insights and buildi
 
 ### 📜 Certifications  
 - **Machine Learning** – Udemy  
-- **Deep Learning & Neural Networks** – *(add here if you have one, otherwise keep ML)*  
+- **Deep Learning & Neural Networks** – Udemy  
 - **Power BI** – Udemy  
 - **Tableau** – Udemy  
