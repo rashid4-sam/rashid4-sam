@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Rashid!
 
-🚀 **Data Scientist** | Specializing in predictive modeling and applied machine learning  
+🚀 **Data Scientist** | Specializing in **Machine Learning, Deep Learning, and Time Series Forecasting**  
 📍 Kerala, India  
 📧 **Email:** rashidsamad70@gmail.com  
 🔗 **LinkedIn:** [muhammedrashidsamad](https://www.linkedin.com/in/muhammedrashidsamad)  
@@ -9,28 +9,31 @@
 ---
 
 ### 🌐 About Me  
-Aspiring Data Scientist with a strong foundation in **Python**, **Machine Learning**, and **Data Analysis**. I'm passionate about turning data into actionable insights and building intelligent systems that solve real-world problems.
+Aspiring Data Scientist with a strong foundation in **Python**, **Machine Learning**, **Deep Learning**, and **Time Series Forecasting**.  
+I’m passionate about transforming raw data into actionable insights and building intelligent systems that can solve **real-world challenges** — from predictive modeling to AI-powered applications.  
 
 ---
 
 ### 🛠️ Tech Toolbox  
 **Languages:** Python, SQL, JavaScript  
-**Frameworks & Libraries:** Scikit-learn, Pandas, Imbalanced-learn, Seaborn  
-**Tools & Platforms:** AWS, Git  
-**Specialties:** Machine Learning, Generative AI, NLP, Search
+**Frameworks & Libraries:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Seaborn, Imbalanced-learn  
+**Tools & Platforms:** AWS, Git, Power BI, Tableau  
+**Specialties:**  
+- Predictive Modeling & Machine Learning  
+- Deep Learning (CNNs, RNNs, LSTMs)  
+- Time Series Forecasting   
+- Data Analysis & Visualization  
 
 ---
 
 ### 🎓 Education  
 **Bachelor of Science in Computer Science**  
-*Kannur University*
+*Kannur University*  
 
 ---
 
 ### 📜 Certifications  
 - **Machine Learning** – Udemy  
+- **Deep Learning & Neural Networks** – *(add here if you have one, otherwise keep ML)*  
 - **Power BI** – Udemy  
-- **Tableau** – Udemy
-
----
-
+- **Tableau** – Udemy  
