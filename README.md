@@ -22,7 +22,8 @@ I’m passionate about transforming raw data into actionable insights and buildi
 - Predictive Modeling & Machine Learning  
 - Deep Learning (CNNs, RNNs, LSTMs)  
 - Time Series Forecasting   
-- Data Analysis & Visualization  
+- Data Analysis & Visualization
+- NLP
 
 ---
 
@@ -34,6 +35,7 @@ I’m passionate about transforming raw data into actionable insights and buildi
 
 ### 📜 Certifications  
 - **Machine Learning** – Udemy  
-- **Deep Learning & Neural Networks** – Udemy  
+- **Deep Learning & Neural Networks** – Udemy
+- **NLP** - Udemy 
 - **Power BI** – Udemy  
 - **Tableau** – Udemy  
